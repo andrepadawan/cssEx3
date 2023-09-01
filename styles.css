@@ -1,0 +1,15 @@
+.fontsize {
+    font-size: 28px; font-family: Helvetica, Times New Roman, sans-serif;
+    width: 200px;
+    height: 70px;
+}
+
+.fontsize.right {
+    background-color: yellow;
+    color: black;
+}
+
+.fontsize.left {
+    background-color: black;
+    color: white;
+}
